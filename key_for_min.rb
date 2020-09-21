@@ -10,5 +10,5 @@ def key_for_min_value(name_hash)
       associated_key = key
     end
   end
-  puts associated_key
+  associated_key
 end
